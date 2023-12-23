@@ -1,0 +1,6 @@
+{
+  "name": "tk-test-dataform-dependencies",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
