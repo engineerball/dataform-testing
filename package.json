@@ -1,7 +1,7 @@
 {
   "name": "tk-test-dataform-dependencies",
   "dependencies": {
-    "@dataform/core": "file:./lib/data-core-2.8.2.tar.gz",
+    "@dataform/core": "2.4.2",
     "dataform-scd": "file:./lib/dataform-scd-0.4.tar.gz"
   }
 }
